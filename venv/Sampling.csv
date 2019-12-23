@@ -1,0 +1,507 @@
+﻿Id,Sectors,Market Size,Progress
+1,Arts and Heritage,Category1,1
+2,Arts and Heritage,Category1,1
+3,Arts and Heritage,Category1,1
+4,Arts and Heritage,Category1,1
+5,Arts and Heritage,Category1,1
+6,Arts and Heritage,Category2,1
+7,Arts and Heritage,Category2,0
+8,Arts and Heritage,Category2,0
+9,Arts and Heritage,Category3,0
+10,Arts and Heritage,Category3,0
+11,Arts and Heritage,Category4,0
+12,Arts and Heritage,Category4,0
+13,Arts and Heritage,Category6,0
+14,Arts and Heritage,Category6,0
+15,Arts and Heritage,Category6,0
+16,Arts and Heritage,Category6,0
+17,Arts and Heritage,Category6,0
+18,Arts and Heritage,Category6,0
+19,Arts and Heritage,Category6,0
+20,Arts and Heritage,Category6,0
+21,Arts and Heritage,Category7,0
+22,Arts and Heritage,Category7,0
+23,Arts and Heritage,Category7,0
+24,Arts and Heritage,Category7,0
+25,Arts and Heritage,Category7,0
+26,Arts and Heritage,Category7,0
+27,Arts and Heritage,Category7,0
+28,Arts and Heritage,Category7,0
+29,Arts and Heritage,Category7,0
+30,Arts and Heritage,Category7,0
+31,Arts and Heritage,Category7,0
+32,Arts and Heritage,Category8,0
+33,Arts and Heritage,Category8,0
+34,Arts and Heritage,Category8,0
+35,Arts and Heritage,Category8,0
+36,Arts and Heritage,Category8,0
+37,Arts and Heritage,Category8,0
+38,Arts and Heritage,Category8,0
+39,Community,Category1,0
+40,Community,Category1,0
+41,Community,Category1,0
+42,Community,Category1,0
+43,Community,Category1,0
+44,Community,Category2,0
+45,Community,Category2,0
+46,Community,Category2,0
+47,Community,Category5,0
+48,Community,Category5,0
+49,Community,Category5,0
+50,Community,Category5,0
+51,Community,Category5,0
+52,Community,Category5,0
+53,Community,Category5,0
+54,Community,Category5,0
+55,Community,Category5,0
+56,Community,Category5,0
+57,Community,Category5,0
+58,Community,Category5,0
+59,Community,Category5,0
+60,Community,Category5,0
+61,Community,Category5,0
+62,Community,Category5,0
+63,Community,Category5,0
+64,Community,Category6,0
+65,Community,Category6,0
+66,Community,Category6,0
+67,Community,Category6,0
+68,Community,Category6,0
+69,Community,Category6,0
+70,Community,Category6,0
+71,Community,Category6,0
+72,Community,Category6,0
+73,Community,Category6,0
+74,Community,Category6,0
+75,Community,Category6,0
+76,Community,Category6,0
+77,Community,Category6,0
+78,Community,Category6,0
+79,Community,Category6,0
+80,Community,Category6,0
+81,Community,Category6,0
+82,Community,Category6,0
+83,Community,Category6,0
+84,Community,Category6,0
+85,Community,Category7,0
+86,Community,Category7,0
+87,Education,Category1,0
+88,Education,Category1,0
+89,Education,Category1,0
+90,Education,Category1,0
+91,Education,Category2,0
+92,Education,Category2,0
+93,Education,Category2,0
+94,Education,Category3,0
+95,Education,Category3,0
+96,Education,Category3,0
+97,Education,Category3,0
+98,Education,Category3,0
+99,Education,Category3,0
+100,Education,Category4,0
+101,Education,Category4,0
+102,Education,Category4,0
+103,Education,Category4,0
+104,Education,Category4,0
+105,Education,Category4,0
+106,Education,Category4,0
+107,Education,Category4,0
+108,Education,Category4,0
+109,Education,Category4,0
+110,Education,Category4,0
+111,Education,Category4,0
+112,Education,Category4,0
+113,Education,Category4,0
+114,Education,Category5,0
+115,Education,Category5,0
+116,Education,Category5,0
+117,Education,Category6,0
+118,Education,Category6,0
+119,Education,Category7,0
+120,Education,Category7,0
+121,Education,Category7,0
+122,Education,Category8,0
+123,Education,Category8,0
+124,Education,Category8,0
+125,Education,Category8,0
+126,Education,Category8,0
+127,Education,Category8,0
+128,Education,Category8,0
+129,Health,Category1,0
+130,Health,Category1,0
+131,Health,Category1,0
+132,Health,Category1,0
+133,Health,Category1,0
+134,Health,Category1,0
+135,Health,Category2,0
+136,Health,Category2,0
+137,Health,Category2,0
+138,Health,Category3,0
+139,Health,Category3,0
+140,Health,Category4,0
+141,Health,Category4,0
+142,Health,Category4,0
+143,Health,Category6,0
+144,Health,Category6,0
+145,Health,Category6,0
+146,Health,Category6,0
+147,Health,Category6,0
+148,Health,Category7,0
+149,Health,Category7,0
+150,Health,Category7,0
+151,Health,Category7,0
+152,Health,Category7,0
+153,Health,Category7,0
+154,Health,Category7,0
+155,Health,Category7,0
+156,Health,Category7,0
+157,Health,Category8,0
+158,Health,Category8,0
+159,Health,Category8,0
+160,Health,Category8,0
+161,Health,Category8,0
+162,Health,Category8,0
+163,Health,Category8,0
+164,Health,Category8,0
+165,Health,Category8,0
+166,Health,Category8,0
+167,Health,Category8,0
+168,Health,Category8,0
+169,Health,Category8,0
+170,Health,Category8,0
+171,Social and Welfare,Category1,0
+172,Social and Welfare,Category1,0
+173,Social and Welfare,Category1,0
+174,Social and Welfare,Category1,0
+175,Social and Welfare,Category1,0
+176,Social and Welfare,Category1,0
+177,Social and Welfare,Category1,0
+178,Social and Welfare,Category1,0
+179,Social and Welfare,Category1,0
+180,Social and Welfare,Category1,0
+181,Social and Welfare,Category1,0
+182,Social and Welfare,Category2,0
+183,Social and Welfare,Category2,0
+184,Social and Welfare,Category2,0
+185,Social and Welfare,Category2,0
+186,Social and Welfare,Category2,0
+187,Social and Welfare,Category2,0
+188,Social and Welfare,Category2,0
+189,Social and Welfare,Category2,0
+190,Social and Welfare,Category2,0
+191,Social and Welfare,Category2,0
+192,Social and Welfare,Category3,0
+193,Social and Welfare,Category3,0
+194,Social and Welfare,Category3,0
+195,Social and Welfare,Category3,0
+196,Social and Welfare,Category3,0
+197,Social and Welfare,Category4,0
+198,Social and Welfare,Category4,0
+199,Social and Welfare,Category4,0
+200,Social and Welfare,Category4,0
+201,Social and Welfare,Category5,0
+202,Social and Welfare,Category5,0
+203,Social and Welfare,Category5,0
+204,Social and Welfare,Category6,0
+205,Social and Welfare,Category6,0
+206,Social and Welfare,Category6,0
+207,Social and Welfare,Category6,0
+208,Social and Welfare,Category6,0
+209,Social and Welfare,Category6,0
+210,Social and Welfare,Category6,0
+211,Social and Welfare,Category6,0
+212,Social and Welfare,Category6,0
+213,Social and Welfare,Category6,0
+214,Social and Welfare,Category6,0
+215,Social and Welfare,Category6,0
+216,Social and Welfare,Category6,0
+217,Social and Welfare,Category7,0
+218,Social and Welfare,Category7,0
+219,Social and Welfare,Category7,0
+220,Social and Welfare,Category7,0
+221,Social and Welfare,Category7,0
+222,Social and Welfare,Category7,0
+223,Social and Welfare,Category7,0
+224,Social and Welfare,Category7,0
+225,Social and Welfare,Category7,0
+226,Social and Welfare,Category7,0
+227,Social and Welfare,Category7,0
+228,Social and Welfare,Category7,0
+229,Social and Welfare,Category7,0
+230,Social and Welfare,Category7,0
+231,Social and Welfare,Category7,0
+232,Social and Welfare,Category7,0
+233,Social and Welfare,Category7,0
+234,Social and Welfare,Category7,0
+235,Social and Welfare,Category7,0
+236,Social and Welfare,Category7,0
+237,Social and Welfare,Category7,0
+238,Social and Welfare,Category7,0
+239,Social and Welfare,Category7,0
+240,Social and Welfare,Category7,0
+241,Social and Welfare,Category7,0
+242,Social and Welfare,Category7,0
+243,Social and Welfare,Category7,0
+244,Social and Welfare,Category7,0
+245,Social and Welfare,Category7,0
+246,Social and Welfare,Category7,0
+247,Social and Welfare,Category7,0
+248,Social and Welfare,Category7,0
+249,Social and Welfare,Category7,0
+250,Social and Welfare,Category7,0
+251,Social and Welfare,Category8,0
+252,Social and Welfare,Category8,0
+253,Social and Welfare,Category8,0
+254,Social and Welfare,Category8,0
+255,Social and Welfare,Category8,0
+256,Social and Welfare,Category8,0
+257,Social and Welfare,Category8,0
+258,Social and Welfare,Category8,0
+259,Social and Welfare,Category8,0
+260,Social and Welfare,Category8,0
+261,Social and Welfare,Category8,0
+262,Social and Welfare,Category8,0
+263,Social and Welfare,Category8,0
+264,Social and Welfare,Category8,0
+265,Social and Welfare,Category8,0
+266,Social and Welfare,Category8,0
+267,Sports,Category1,0
+268,Sports,Category1,0
+269,Sports,Category2,0
+270,Sports,Category3,0
+271,Sports,Category4,0
+272,Sports,Category5,0
+273,Sports,Category5,0
+274,Sports,Category6,0
+275,Sports,Category6,0
+276,Sports,Category6,0
+277,Sports,Category6,0
+278,Sports,Category6,0
+279,Sports,Category6,0
+280,Sports,Category7,0
+281,Sports,Category7,0
+282,Sports,Category7,0
+283,Sports,Category7,0
+284,Sports,Category7,0
+285,Sports,Category7,0
+286,Sports,Category7,0
+287,Others,Category1,0
+288,Others,Category1,0
+289,Others,Category1,0
+290,Others,Category1,0
+291,Others,Category1,0
+292,Others,Category1,0
+293,Others,Category1,0
+294,Others,Category1,0
+295,Others,Category1,0
+296,Others,Category1,0
+297,Others,Category2,0
+298,Others,Category2,0
+299,Others,Category2,0
+300,Others,Category2,0
+301,Others,Category2,0
+302,Others,Category3,0
+303,Others,Category3,0
+304,Others,Category3,0
+305,Others,Category3,0
+306,Others,Category3,0
+307,Others,Category3,0
+308,Others,Category3,0
+309,Others,Category3,0
+310,Others,Category3,0
+311,Others,Category4,0
+312,Others,Category4,0
+313,Others,Category4,0
+314,Others,Category4,0
+315,Others,Category6,0
+316,Others,Category6,0
+317,Others,Category6,0
+318,Others,Category6,0
+319,Others,Category6,0
+320,Others,Category7,0
+321,Others,Category7,0
+322,Others,Category7,0
+323,Others,Category7,0
+324,Others,Category7,0
+325,Others,Category7,0
+326,Others,Category7,0
+327,Others,Category7,0
+328,Others,Category7,0
+329,Others,Category7,0
+330,Others,Category8,0
+331,Others,Category8,0
+332,Others,Category8,0
+333,Others,Category8,0
+334,Others,Category8,0
+335,Others,Category8,0
+336,Religious,Category1,0
+337,Religious,Category1,0
+338,Religious,Category1,0
+339,Religious,Category1,0
+340,Religious,Category1,0
+341,Religious,Category1,0
+342,Religious,Category1,0
+343,Religious,Category1,0
+344,Religious,Category1,0
+345,Religious,Category1,0
+346,Religious,Category1,0
+347,Religious,Category1,0
+348,Religious,Category1,0
+349,Religious,Category1,0
+350,Religious,Category1,0
+351,Religious,Category1,0
+352,Religious,Category1,0
+353,Religious,Category1,0
+354,Religious,Category1,0
+355,Religious,Category1,0
+356,Religious,Category1,0
+357,Religious,Category1,0
+358,Religious,Category1,0
+359,Religious,Category1,0
+360,Religious,Category1,0
+361,Religious,Category1,0
+362,Religious,Category1,0
+363,Religious,Category1,0
+364,Religious,Category1,0
+365,Religious,Category1,0
+366,Religious,Category1,0
+367,Religious,Category2,0
+368,Religious,Category2,0
+369,Religious,Category2,0
+370,Religious,Category2,0
+371,Religious,Category2,0
+372,Religious,Category2,0
+373,Religious,Category2,0
+374,Religious,Category2,0
+375,Religious,Category2,0
+376,Religious,Category2,0
+377,Religious,Category2,0
+378,Religious,Category2,0
+379,Religious,Category2,0
+380,Religious,Category2,0
+381,Religious,Category2,0
+382,Religious,Category2,0
+383,Religious,Category2,0
+384,Religious,Category2,0
+385,Religious,Category2,0
+386,Religious,Category2,0
+387,Religious,Category2,0
+388,Religious,Category2,0
+389,Religious,Category2,0
+390,Religious,Category2,0
+391,Religious,Category2,0
+392,Religious,Category2,0
+393,Religious,Category2,0
+394,Religious,Category2,0
+395,Religious,Category2,0
+396,Religious,Category2,0
+397,Religious,Category2,0
+398,Religious,Category2,0
+399,Religious,Category2,0
+400,Religious,Category2,0
+401,Religious,Category2,0
+402,Religious,Category2,0
+403,Religious,Category2,0
+404,Religious,Category2,0
+405,Religious,Category2,0
+406,Religious,Category2,0
+407,Religious,Category2,0
+408,Religious,Category2,0
+409,Religious,Category2,0
+410,Religious,Category2,0
+411,Religious,Category2,0
+412,Religious,Category2,0
+413,Religious,Category2,0
+414,Religious,Category2,0
+415,Religious,Category2,0
+416,Religious,Category2,0
+417,Religious,Category2,0
+418,Religious,Category2,0
+419,Religious,Category2,0
+420,Religious,Category2,0
+421,Religious,Category2,0
+422,Religious,Category2,0
+423,Religious,Category2,0
+424,Religious,Category2,0
+425,Religious,Category2,0
+426,Religious,Category2,0
+427,Religious,Category2,0
+428,Religious,Category2,0
+429,Religious,Category2,0
+430,Religious,Category3,0
+431,Religious,Category3,0
+432,Religious,Category3,0
+433,Religious,Category3,0
+434,Religious,Category3,0
+435,Religious,Category3,0
+436,Religious,Category3,0
+437,Religious,Category3,0
+438,Religious,Category3,0
+439,Religious,Category3,0
+440,Religious,Category3,0
+441,Religious,Category3,0
+442,Religious,Category3,0
+443,Religious,Category3,0
+444,Religious,Category3,0
+445,Religious,Category3,0
+446,Religious,Category3,0
+447,Religious,Category3,0
+448,Religious,Category3,0
+449,Religious,Category3,0
+450,Religious,Category3,0
+451,Religious,Category3,0
+452,Religious,Category3,0
+453,Religious,Category3,0
+454,Religious,Category3,0
+455,Religious,Category3,0
+456,Religious,Category3,0
+457,Religious,Category3,0
+458,Religious,Category3,0
+459,Religious,Category3,0
+460,Religious,Category3,0
+461,Religious,Category3,0
+462,Religious,Category3,0
+463,Religious,Category3,0
+464,Religious,Category3,0
+465,Religious,Category3,0
+466,Religious,Category3,0
+467,Religious,Category3,0
+468,Religious,Category3,0
+469,Religious,Category3,0
+470,Religious,Category3,0
+471,Religious,Category3,0
+472,Religious,Category3,0
+473,Religious,Category3,0
+474,Religious,Category3,0
+475,Religious,Category3,0
+476,Religious,Category3,0
+477,Religious,Category3,0
+478,Religious,Category3,0
+479,Religious,Category3,0
+480,Religious,Category3,0
+481,Religious,Category3,0
+482,Religious,Category3,0
+483,Religious,Category3,0
+484,Religious,Category3,0
+485,Religious,Category3,0
+486,Religious,Category3,0
+487,Religious,Category3,0
+488,Religious,Category3,0
+489,Religious,Category3,0
+490,Religious,Category4,0
+491,Religious,Category4,0
+492,Religious,Category4,0
+493,Religious,Category4,0
+494,Religious,Category4,0
+495,Religious,Category4,0
+496,Religious,Category4,0
+497,Religious,Category4,0
+498,Religious,Category4,0
+499,Religious,Category4,0
+500,Religious,Category4,0
+501,Religious,Category4,0
+502,Religious,Category4,0
+503,Religious,Category4,0
+504,Religious,Category4,0
+505,Religious,Category4,0
+506,Religious,Category4,0
