@@ -4,7 +4,6 @@ import seaborn as sb
 import matplotlib.pyplot as plt
 import panel as pn
 import datetime
-import matplotlib.pyplot as plt
 from matplotlib.legend_handler import HandlerBase
 from matplotlib.text import Text
 import matplotlib.patches as mpatches
@@ -26,7 +25,6 @@ progresscalculation = round((len(completed) / (len(completed)+len(notcompleted))
 
 
 #Data Collection Countplot Graph
-
 progressgraph, axes = plt.subplots(1, 1, figsize=(20, 11))
 ax= sb.countplot(y='Progress',palette="ch:.25",data=SamplingData)
 currentdatetime = datetime.datetime.now()
@@ -65,5 +63,4 @@ progressmeter.update_layout(
 tabs = pn.Tabs()
 tabs.append(('Progress Chart', progressgraph))
 tabs.append(('Progress Meter', progressmeter))
-
 tabs.show()
