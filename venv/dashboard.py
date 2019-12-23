@@ -63,4 +63,4 @@ progressmeter.update_layout(
 tabs = pn.Tabs()
 tabs.append(('Progress Chart', progressgraph))
 tabs.append(('Progress Meter', progressmeter))
-tabs.show()
+tabs.servable()
