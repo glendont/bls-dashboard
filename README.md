@@ -1,6 +1,4 @@
-# Dynamic Dashboards deployment with panel and holoviz for Progress Tracking
-dynamic dashboards with panel and holoviz 
-
+# Dynamic dashboards deployment for Progress Tracking
 
 ![](bls-dashboard-gif.gif)
 
@@ -8,4 +6,5 @@ dynamic dashboards with panel and holoviz
 Technologies:
 Panel
 Holoviz
+MongoDB
 DigitalOcean
