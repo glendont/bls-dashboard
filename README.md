@@ -1,4 +1,4 @@
-# bls-dashboard
+# Dynamic Dashboards deployment with panel and holoviz for Progress Tracking
 dynamic dashboards with panel and holoviz 
 
 
