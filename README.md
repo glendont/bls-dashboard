@@ -10,13 +10,6 @@ Rapid dashboards deployment for business intelligence purposes using python dash
 
 
 
-Technologies:
-Panel
-Holoviz
-MongoDB
-DigitalOcean
-
-
 ## Built With
 * [Panel](https://panel.holoviz.org/) - Dashboarding
 * [Holoviz](https://panel.holoviz.org/) - Dashboarding
